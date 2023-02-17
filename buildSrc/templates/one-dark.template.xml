@@ -29,7 +29,7 @@
     <option name="ERROR_HINT" value="781732"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f"/>
     <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
-    <option name="GUTTER_BACKGROUND" value="282c34"/>
+    <option name="GUTTER_BACKGROUND" value="272828"/>
     <option name="HTML_TAG_TREE_LEVEL0" value="$error$"/>
     <option name="HTML_TAG_TREE_LEVEL1" value="$chalky$"/>
     <option name="HTML_TAG_TREE_LEVEL2" value="$green$"/>
@@ -2173,7 +2173,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="BACKGROUND" value="282c34"/>
+        <option name="BACKGROUND" value="272828"/>
         <option name="FOREGROUND" value="$lightWhite$"/>
       </value>
     </option>
@@ -2257,7 +2257,7 @@
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="272828" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -2304,7 +2304,7 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="BACKGROUND" value="282c34"/>
+        <option name="BACKGROUND" value="272828"/>
         <option name="FOREGROUND" value="$lightWhite$"/>
       </value>
     </option>
