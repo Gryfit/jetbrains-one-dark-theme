@@ -5,7 +5,7 @@
   "editorScheme": "/themes/one_dark.xml",
   "colors": {
     "accentColor": "#568AF2",
-    "backgroundColor": "#21252b",
+    "backgroundColor": "#272828",
     "borderColor": "#333841",
     "infoForeground": "#7e8491",
     "foregroundColor": "#abb2bf",
@@ -157,10 +157,10 @@
     },
 
     "Editor": {
-      "background": "#282c34",
+      "background": "#272828",
       "foreground": "#abb2bf",
       "SearchField": {
-        "background": "#282c34"
+        "background": "#272828"
       },
       "shortcutForeground": "accentColor",
       "ToolTip": {
@@ -168,10 +168,10 @@
       }
     },
 
-    "EditorPane.inactiveBackground": "#282c34",
+    "EditorPane.inactiveBackground": "#272828",
 
     "EditorTabs": {
-      "underlinedTabBackground": "#3d424b"
+      "underlinedTabBackground": "#1e1f1f"
     },
 
     "FileColor": {
@@ -215,7 +215,7 @@
     },
 
     "MainToolbar": {
-      "inactiveBackground": "#282c34",
+      "inactiveBackground": "#272828",
       "background": "backgroundColor",
       "Dropdown": {
         "hoverBackground": "#3d424b"
@@ -287,7 +287,7 @@
       },
 
       "SearchField": {
-        "background": "#282c34",
+        "background": "#272828",
         "borderColor": "#1b1d21"
       },
 
@@ -301,7 +301,7 @@
     },
 
     "Popup": {
-      "background": "#282c34",
+      "background": "#272828",
       "paintBorder": false,
       "borderColor": "#21252b",
       "Toolbar.borderColor": "#3d424b",
@@ -335,7 +335,7 @@
       "Header.background": "backgroundColor",
 
       "SearchField":{
-        "background": "#282c34",
+        "background": "#272828",
         "borderColor": "#1b1d21"
       },
 
@@ -370,7 +370,7 @@
     },
 
     "Table": {
-      "background": "#282c34",
+      "background": "#272828",
       "stripeColor": "#2c313a",
       "selectionForeground": "#ffffff",
       "foreground": "#abb2bf",
@@ -388,12 +388,12 @@
     "Tag.background": "#3d424b",
 
     "TextArea": {
-      "background": "#282c34",
+      "background": "#272828",
       "selectionBackground": "#414855"
     },
 
     "TextField": {
-      "background": "#282c34",
+      "background": "#272828",
       "selectionBackground": "#414855"
     },
 
@@ -419,8 +419,8 @@
       },
 
       "Header": {
-        "background": "#414855",
-        "inactiveBackground": "#323844"
+        "background": "#backgroundColor",
+        "inactiveBackground": "#backgroundColor"
       },
 
       "HeaderTab": {
@@ -471,14 +471,14 @@
         "selectionInactiveBackground": "#2c313a"
       },
       "separatorColor": "#2c313a",
-      "SidePanel.background": "#282c34",
+      "SidePanel.background": "#272828",
       "Details.background": "backgroundColor"
     }
   },
 
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#282c34",
+      "Checkbox.Background.Default.Dark": "#272828",
       "Checkbox.Border.Default.Dark": "#414855",
       "Checkbox.Foreground.Selected.Dark": "#abb2bf",
       "Checkbox.Focus.Wide.Dark": "#568AF2",
@@ -488,5 +488,18 @@
       "Checkbox.Border.Disabled.Dark": "#2c313a",
       "Checkbox.Foreground.Disabled.Dark": "#5c6370"
     }
+  },
+
+  "background": {
+    "image": "bg-image/a.jpeg",
+    "transparency": 15,
+    "fill": "scale",
+    "anchor": "center"
+  },
+  "emptyFrameBackground": {
+    "image": "bg-image/a.jpeg",
+    "transparency": 20,
+    "fill": "scale",
+    "anchor": "center"
   }
 }
