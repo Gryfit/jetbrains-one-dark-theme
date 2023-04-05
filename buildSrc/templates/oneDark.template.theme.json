@@ -488,18 +488,5 @@
       "Checkbox.Border.Disabled.Dark": "#2c313a",
       "Checkbox.Foreground.Disabled.Dark": "#5c6370"
     }
-  },
-
-  "background": {
-    "image": "bg-image/a.jpeg",
-    "transparency": 15,
-    "fill": "scale",
-    "anchor": "center"
-  },
-  "emptyFrameBackground": {
-    "image": "bg-image/a.jpeg",
-    "transparency": 20,
-    "fill": "scale",
-    "anchor": "center"
   }
 }
